@@ -1,0 +1,126 @@
+Indicators of Compromise (IoCs)
+IP Addresses
+
+    62[.]133[.]61[.]26
+    62[.]133[.]61[.]43
+    5[.]42[.]107[.]78
+
+File Hashes (SHA256)
+
+    e15b200048fdddaedb24a84e99d6d7b950be020692c02b46902bf5af8fb50949
+    547b6e08b0142b4f8d024bac78eb1ff399198a8d8505ce365b352e181fc4a544
+    bd823f525c128149d70f633e524a06a0c5dc1ca14dd56ca7d2a8404e5a573078
+    982338768465b79cc8acd873a1be2793fccbaa4f28933bcdf56b1d8aa6919b47
+    bc6933a8fc324b907e6cf3ded3f76adc27a6ad2445b4f5db1723ac3ec86ed10d
+    59d2c2ca389ab1ba1fefa4a06b14ae18a8f5b70644158d5ec4fb7a7eac4c0a08
+    8568226767ac2748eccc7b9832fac33e8aa6bfdc03eafa6a34fb5d81e5992497
+    4043aa37b5ba577dd99f6ca35c644246094f4f579415652895e6750fb9823bd9
+    0604e7f0b4f7790053991c33359ad427c9bf74c62bec3e2d16984956d0fb9c19
+    8c6d355a987bb09307e0af6ac8c3373c1c4cbfbceeeb1159a96a75f19230ede6
+    de6960d51247844587a21cc0685276f966747e324eb444e6e975b0791556f34f
+    6c779e427b8d861896eacdeb812f9f388ebd43f587c84a243c7dab9ef65d151c
+    08c75c6a9582d49ea3fe780509b6f0c9371cfcd0be130bc561fae658b055a671
+    abc54ff9f6823359071d755b151233c08bc2ed1996148ac61cfb99c7e8392bfe
+    643dde3f461907a94f145b3cd8fe37dbad63aec85a4e5ed759fe843b9214a8d2
+
+Domains
+
+    a-bc[.]xyz
+    ab-cc[.]xyz
+    a-bcd[.]xyz
+    ad-ed[.]xyz
+    ad-es[.]xyz
+    arcf-sj[.]org
+    asd-e[.]xyz
+    ctze[.]xyz
+    ddbc[.]xyz
+    dd-d[.]xyz
+    dervinko[.]biz
+    fastsecurityup[.]com
+    frck[.]xyz
+    frdk[.]xyz
+    frfk[.]xyz
+    frgk[.]xyz
+    frjk[.]xyz
+    frpk[.]xyz
+    frsk[.]xyz
+    geotravelsgi[.]xyz
+    ihpe[.]xyz
+    iicc[.]fun
+    kwqislxk[.]xyz
+    llal[.]xyz
+    llcl[.]xyz
+    lldl[.]xyz
+    llml[.]xyz
+    llnl[.]xyz
+    llpl[.]xyz
+    llxl[.]xyz
+    llzl[.]xyz
+    nafiskaran[.]com
+    padrf[.]xyz
+    pbdbj[.]xyz
+    pcvcf[.]xyz
+    pcvvf[.]xyz
+    pdddk[.]xyz
+    plpoh[.]xyz
+    sportsmensgifts[.]com
+    tourbigs[.]com
+    update2[.]com
+    veronicabal[.]com
+    trxh[.]xyz
+    trxq[.]xyz
+    trxu[.]xyz
+
+URLs
+
+    hxxps://dervinko[.]biz/ujs/8921e7ad-5b9e-4fca-97e6-c631b2636cc9
+    hxxps://dervinko[.]biz/Up
+    hxxps://dervinko[.]biz/Up/b
+    hxxps://fastsecurityup[.]com/Up
+    hxxps://fastsecurityup[.]com/Up/b
+    hxxps://frck[.]xyz/Up
+    hxxps://frck[.]xyz/Up/b
+    hxxps://frdk[.]xyz/Up
+    hxxps://frdk[.]xyz/Up/b
+    hxxps://frfk[.]xyz/Up
+    hxxps://frfk[.]xyz/Up/b
+    hxxps://frgk[.]xyz/Up
+    hxxps://frgk[.]xyz/Up/b
+    hxxps://frjk[.]xyz/Up
+    hxxps://frjk[.]xyz/Up/b
+    hxxps://frpk[.]xyz/Up
+    hxxps://frpk[.]xyz/Up/b
+    hxxps://frsk[.]xyz/Up
+    hxxps://iicc[.]fun/ujs/10924410-23ef-465e-a794-c614640e2bf2
+    hxxps://iicc[.]fun/Up
+    hxxps://iicc[.]fun/Up/b
+    hxxps://kwqislxk[.]xyz/Up
+    hxxps://kwqislxk[.]xyz/Up/b
+    hxxps://steamcommunity[.]com/profiles/76561199609719039
+    hxxps://steamcommunity[.]com/profiles/76561199609760273
+    hxxps://steamcommunity[.]com/profiles/76561199618998288
+    hxxps://steamcommunity[.]com/profiles/76561199619157993
+    hxxps://steamcommunity[.]com/profiles/76561199619383712
+    hxxps://steamcommunity[.]com/profiles/76561199619525937
+    hxxps://steamcommunity[.]com/profiles/76561199619855608
+    hxxps://steamcommunity[.]com/profiles/76561199619915856
+    hxxps://steamcommunity[.]com/profiles/76561199619916287
+    hxxps://steamcommunity[.]com/profiles/76561199619927938
+    hxxps://steamcommunity[.]com/profiles/76561199619987302
+    hxxps://steamcommunity[.]com/profiles/76561199620058328
+    hxxps://steamcommunity[.]com/profiles/76561199620231023
+    hxxps://steamcommunity[.]com/profiles/76561199620444957
+    hxxps://steamcommunity[.]com/profiles/76561199620585118
+    hxxps://steamcommunity[.]com/profiles/76561199620788109
+    hxxps://steamcommunity[.]com/profiles/76561199620812153
+    hxxps://steamcommunity[.]com/profiles/76561199621302269
+    hxxps://steamcommunity[.]com/profiles/76561199621451974
+    hxxps://steamcommunity[.]com/profiles/76561199655148275
+    hxxps://trxh[.]xyz/ujs/9abdbfd-2661-43e4-8280-7f9a9698f912
+    hxxps://trxh[.]xyz/Up
+    hxxps://trxh[.]xyz/Up/b
+    hxxps://trxq[.]xyz/Up
+    hxxps://trxq[.]xyz/Up/b
+    hxxps://trxu[.]xyz/Up
+    hxxps://veronicabal[.]com/Up
+    hxxps://veronicabal[.]com/Up/b
